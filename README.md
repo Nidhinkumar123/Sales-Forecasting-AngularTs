@@ -20,3 +20,6 @@ Firebase is used as an login and register Backend
 1. In the app.py Linear regression algorithm is there
 2. install `pip` and install necessary modules for the pip and import all the modules
 3. Run the flask code
+
+# Contact
+Contact me if you have any doubt about running this project [E-MAIL](snidhinkumar007@gmail.com)
