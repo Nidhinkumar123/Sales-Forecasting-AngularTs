@@ -22,4 +22,4 @@ Firebase is used as an login and register Backend
 3. Run the flask code
 
 # Contact
-Contact me if you have any doubt about running this project [E-MAIL](snidhinkumar007@gmail.com)
+Contact me if you have any doubt about running this project [snidhinkumar007@gmail.com]
